@@ -10,6 +10,8 @@ PATH = 'content'
 
 THEME = "pelican-clean-blog"
 
+STATIC_PATHS = ['images', 'pages']
+
 TIMEZONE = 'Asia/Ho_Chi_Minh'
 
 DEFAULT_LANG = 'en'
