@@ -8,6 +8,8 @@ SITEURL = ''
 
 PATH = 'content'
 
+THEME = "pelican-clean-blog"
+
 TIMEZONE = 'Asia/Ho_Chi_Minh'
 
 DEFAULT_LANG = 'en'
