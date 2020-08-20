@@ -1,4 +1,4 @@
-[submodule "templates/cc-tools"]
-	path = templates/cc-tools
-	url = https://github.com/hlapp/cc-tools
+[submodule "pelican-clean-blog"]
+	path = venv/lib/python3.8/site-packages/pelican/themes/pelican-clean-blog
+	url = https://github.com/gilsondev/pelican-clean-blog.git
 
